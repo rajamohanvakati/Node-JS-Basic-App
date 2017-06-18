@@ -1,0 +1,33 @@
+{
+  "name": "nodejsmodule",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.6",
+    "express": "^4.15.3",
+    "mongodb": "^2.2.28",
+    "mongoose": "^4.10.4",
+    "muter": "^0.6.0",
+    "node-restful": "^0.2.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajamohanvakati/Node-JS-Basic-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajamohanvakati/Node-JS-Basic-App/issues"
+  },
+  "homepage": "https://github.com/rajamohanvakati/Node-JS-Basic-App#readme"
+}
